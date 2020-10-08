@@ -1,0 +1,7 @@
+Question 1:
+Write a program to copy the contents of one file to another using a for loop. (Don’t use built-in copy
+function)
+
+Question 2:
+Write a Python program to find maximum and minimum values in the dictionary. Do not use built-in min
+and max functions.
